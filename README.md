@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do you want. I'm a 2rd year computer science student at Universitas Islam Indonesia. 
+
 <!--
 **yustinayasin/yustinayasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
