@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there!
 
 My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do you want. I'm a 2rd year computer science student at Universitas Islam Indonesia. 
 
@@ -13,8 +13,8 @@ My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do yo
 - linear algebra (machine learning)
 
 ## 📫 How to reach me
-- Twitter : [@ystnysn](twitter.com/ystnysn)
-- Instagram : [@ystnysn](instagram.com/ystnysn)
+- Twitter : [@ystnysn](https://twitter.com//ystnysn)
+- Instagram : [@ystnysn](https://www.instagram.com/ystnysn/)
 - Email : yustinayasin@gmail.com
 - Linkedin : [yustina-yasin](https://www.linkedin.com/in/yustina-yasin-201721188/)
 
