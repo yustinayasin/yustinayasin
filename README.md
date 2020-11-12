@@ -7,7 +7,7 @@ My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do yo
 ### 👯 I’m looking to collaborate on any front end project
 
 ### 🤔 I'm looking for a mentor
-If you like teaching, maybe you can hire me as a mentee. There will be give and take of course. We can discuss it more :)
+If you like teaching, maybe you can hire me as a mentee. There will be give and take of course. I can be your personal assistant hehe sorry i'm desperate to find a mentor
 
 ## 🌱 Current Learning
 - basic front end development
