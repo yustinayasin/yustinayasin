@@ -6,12 +6,9 @@ My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do yo
 
 ### 👯 I’m looking to collaborate on any front end project
 
-### 🤔 I'm looking for a mentor
-If you like teaching, maybe you can hire me as a mentee. There will be give and take of course. I can be your personal assistant hehe sorry i'm desperate to find a mentor
-
 ## 🌱 Current Learning
 - basic front end development
-- basic machine learning (linear algebra
+- python for data visualization
 
 ## 📫 How to reach me
 - Twitter : [@ystnysn](https://twitter.com//ystnysn)
@@ -21,7 +18,7 @@ If you like teaching, maybe you can hire me as a mentee. There will be give and 
 - Website : [yustinayasin.wordpress.com](https://yustinayasin.wordpress.com/)
 
 ## ⚡ Fun fact
-- I'm interested in web development and machine learning 
+- I'm interested in front end development and machine learning 
 - I like kdramas and korean reality shows especially New Journey To The West
 - I'm a cat person
 
