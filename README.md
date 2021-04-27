@@ -18,9 +18,10 @@ My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do yo
 - Website : [yustinayasin.wordpress.com](https://yustinayasin.wordpress.com/)
 
 ## ⚡ Fun fact
-- I'm interested in front end development and machine learning 
+- I'm interested in front end development
 - I like kdramas and korean reality shows especially New Journey To The West
 - I'm a cat person
+- 3d artist wannabe
 
 <!--
 **yustinayasin/yustinayasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
