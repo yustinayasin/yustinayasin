@@ -1,14 +1,14 @@
 ### 👋 Hi there!
 
-My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do you want. I'm a 2rd year computer science student at Universitas Islam Indonesia. 
+My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do you want. I'm a 3rd year computer science student at Universitas Islam Indonesia. 
 
 ### 😄 Pronouns: she/her
 
 ### 👯 I’m looking to collaborate on any front end project
 
 ## 🌱 Current Learning
-- basic front end development
-- python for data visualization
+- react js
+
 
 ## 📫 How to reach me
 - Twitter : [@ystnysn](https://twitter.com//ystnysn)
