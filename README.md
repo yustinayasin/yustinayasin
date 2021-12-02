@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do you want. I'm a 3rd year computer science student at Universitas Islam Indonesia. 
+My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do you want. I'm a 4rd year computer science student at Universitas Islam Indonesia. 
 
 ### 😄 Pronouns: she/her
 
