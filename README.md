@@ -14,8 +14,9 @@ My name is Yustina Yasin. You can call me Yustin, Yasin, Tina, or whatever do yo
 - Twitter : [@ystnysn](https://twitter.com//ystnysn)
 - Instagram : [@ystnysn](https://www.instagram.com/ystnysn/)
 - Email : yustinayasin@gmail.com
-- Linkedin : [yustina-yasin](https://www.linkedin.com/in/yustina-yasin-201721188/)
-- Website : [yustinayasin.wordpress.com](https://yustinayasin.wordpress.com/)
+- Linkedin : [yustina-yasin](https://www.linkedin.com/in/yustinayasin/)
+- Medium : [Yustina Yasin](https://yustinayasin.medium.com/)
+- Website : [yustinayasin.notion.site](https://yustinayasin.notion.site/)
 
 ## ⚡ Fun fact
 - I'm interested in front end development
